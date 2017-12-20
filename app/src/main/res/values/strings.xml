@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">log</string>
+    <string name="registrar">registrar</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="login">LOGIN</string>
+    <string name="password">password</string>
+    <string name="user">user</string>
+</resources>

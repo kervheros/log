@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "401868828303",
+    "project_id": "logi-1955b"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401868828303:android:2c319bd0de43c715",
+        "android_client_info": {
+          "package_name": "com.example.reivin.logi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401868828303-ea347e5o776rnessnbaduacbf0b510b6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reivin.logi",
+            "certificate_hash": "e09d28e3c0d281efd42a3fa52bbd64d3c6c27d64"
+          }
+        },
+        {
+          "client_id": "401868828303-1c99afgmihbe79igjgh75r348f3jmnth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2TV_Ig2feoLjPn3be0XFkAfOyKLhR7Lw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
